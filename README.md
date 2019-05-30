@@ -34,7 +34,7 @@ Follow the steps below, use git bash if you are on windows and terminal on other
 clone the repo
 
 `git clone https://github.com/BongoHive/reponame.git my-todo-native`  
-⚠️ Please replace ☝🏾 `reponame.git` in the above link with the name of this repo 
+⚠️ Please replace `reponame.git` in the ☝🏾 above link with the name of this repo 
 
 `cd my-todo-native`
 
